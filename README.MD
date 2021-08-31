@@ -1,4 +1,4 @@
-<p align="center"><a href="https://reproductor-musica.netlify.app/" target="_blank">
+<p align="center"><a href="https://noticias-covid19.netlify.app/" target="_blank">
     <img src="assets/images/logo-covid19.svg" width="150">
 </a></p>
 
