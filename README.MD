@@ -5,7 +5,7 @@
 # Bienvenidos a Noticias CODIV
 
 Proyecto realizado con el fin de aprender maquetado web.
-Aca te dejo el enlace a la página: 
+Aca te dejo el enlace a la página: https://noticias-covid19.netlify.app/
 
 
 ## Tecnologías utilizadas
